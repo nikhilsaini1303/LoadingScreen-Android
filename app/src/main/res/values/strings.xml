@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Create-Loading-Screen</string>
+    <string name="loding">Loding...</string>
+    <string name="button">Button</string>
+</resources>
